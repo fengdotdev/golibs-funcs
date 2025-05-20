@@ -1,0 +1,10 @@
+github.com/fengdotdev/golibs-testing v0.1.1 h1:HnQp/hL1tMzu8vYG+tPU3xMJl8elwzSrt8/sSIohcJY=
+github.com/fengdotdev/golibs-testing v0.1.1/go.mod h1:tNJmVem0VTk/bkRvMyf7/QRrnWTe/CAnkPsb4dFimwY=
+github.com/fengdotdev/golibs-traits v0.2.1 h1:t/xnNRCYI0v+MrvFqUL3jnhfQFUGSGE1Gz9X1pPlXhA=
+github.com/fengdotdev/golibs-traits v0.2.1/go.mod h1:Ky0MxYNvKRxrcm5PMJNXGtr5Hs/S9xpTpiNTBEbwMiI=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+golang.org/x/crypto v0.38.0 h1:jt+WWG8IZlBnVbomuhg2Mdq0+BBQaHbtqHEFEigjUV8=
+golang.org/x/crypto v0.38.0/go.mod h1:MvrbAqul58NNYPKnOra203SB9vpuZW0e+RRZV+Ggqjw=
+golang.org/x/exp v0.0.0-20250506013437-ce4c2cf36ca6 h1:y5zboxd6LQAqYIhHnB48p0ByQ/GnQx2BE33L8BOHQkI=
+golang.org/x/exp v0.0.0-20250506013437-ce4c2cf36ca6/go.mod h1:U6Lno4MTRCDY+Ba7aCcauB9T60gsv5s4ralQzP72ZoQ=

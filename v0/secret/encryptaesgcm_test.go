@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/fengdotdev/golibs-funcs/v1/datum"
-	"github.com/fengdotdev/golibs-funcs/v1/secret"
+	"github.com/fengdotdev/golibs-funcs/v0/datum"
+	"github.com/fengdotdev/golibs-funcs/v0/secret"
 	"github.com/fengdotdev/golibs-testing/assert"
 )
 

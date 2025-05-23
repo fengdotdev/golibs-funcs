@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fengdotdev/golibs-funcs/v1/timefn"
+	"github.com/fengdotdev/golibs-funcs/v0/timefn"
 	"github.com/fengdotdev/golibs-testing/assert"
 )
 

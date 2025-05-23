@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/fengdotdev/golibs-funcs/v1/web"
+	"github.com/fengdotdev/golibs-funcs/v0/web"
 	"github.com/fengdotdev/golibs-testing/assert"
 )
 

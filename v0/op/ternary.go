@@ -14,7 +14,7 @@ func Ternary[T any](condition bool, trueValue, falseValue T) T {
 // It takes a condition and two values, returning the first value if the condition is true,
 // and the second value if the condition is false.
 // This function is particularly useful for inline conditional expressions.
-func If(condition bool, trueValue, falseValue any) any {
+func If[T any](condition bool, trueValue, falseValue T) T {
 	// If is an alias for Ternary for better readability.
 	return Ternary(condition, trueValue, falseValue)
 }

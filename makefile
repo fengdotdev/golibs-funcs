@@ -2,7 +2,7 @@
 # NEVER GO BEYOND 1.0.0 (breaking change use 0.x.0 ) 
 # keep the 0.x.x -> 1.x.x versioning in the v1 directory from 1.0.0 -> 2.0.0 make v2 folder and new go.mod file in it
 
-VERSION = 0.0.3
+VERSION = 0.0.4
 
 MODULE_NAME := github.com/fengdotdev/golibs-funcs
 
